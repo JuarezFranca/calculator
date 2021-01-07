@@ -1,6 +1,6 @@
 :root {
     --bg-button: #fff;
-    --border-button: solid 1px #888;
+    --border-button: solid 1px #886;
 }
 .button {
     font-size: 1.4em;
@@ -21,9 +21,9 @@
     grid-column: span 3;
 }
 .button.operation {
-    background-color: #fa8231;
+    background-color: #fa8234;
     color:#fff
 }
 .button.operation:active {
-    background-color: #fa8231cc;
+    background-color: #fa8235cc;
 }
